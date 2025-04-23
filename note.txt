@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=ACER\SQLEXPRESS;uid=sa;password=123456;database=AdventureWorksLT2014;Encrypt=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SQLServer --output-dir Models
